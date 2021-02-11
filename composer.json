@@ -1,5 +1,7 @@
 {
     "name": "matt/matt",
     "description": "First project using PHP",
-    "require": {}
+    "require": {
+        "php": "^7.4.0"
+      }
 }
